@@ -1,0 +1,4 @@
+; comment
+str: "Hello World"
+
+print str
